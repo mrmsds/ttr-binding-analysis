@@ -1,0 +1,2 @@
+# Just ignore .venv, keep all CSVs in the repo for sharing
+.venv
